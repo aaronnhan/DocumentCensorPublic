@@ -1,0 +1,3 @@
+[console_scripts]
+foliant=foliant.cli:entry_point
+

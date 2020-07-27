@@ -1,0 +1,679 @@
+﻿SMITH,last_name
+JOHNSON,last_name
+WILLIAMS,last_name
+BROWN,last_name
+JONES,last_name
+GARCIA,last_name
+MILLER,last_name
+DAVIS,last_name
+RODRIGUEZ,last_name
+MARTINEZ,last_name
+HERNANDEZ,last_name
+LOPEZ,last_name
+GONZALEZ,last_name
+WILSON,last_name
+ANDERSON,last_name
+THOMAS,last_name
+TAYLOR,last_name
+MOORE,last_name
+JACKSON,last_name
+MARTIN,last_name
+LEE,last_name
+PEREZ,last_name
+THOMPSON,last_name
+WHITE,last_name
+HARRIS,last_name
+SANCHEZ,last_name
+CLARK,last_name
+RAMIREZ,last_name
+LEWIS,last_name
+ROBINSON,last_name
+WALKER,last_name
+YOUNG,last_name
+ALLEN,last_name
+KING,last_name
+WRIGHT,last_name
+SCOTT,last_name
+TORRES,last_name
+NGUYEN,last_name
+HILL,last_name
+FLORES,last_name
+GREEN,last_name
+ADAMS,last_name
+NELSON,last_name
+BAKER,last_name
+HALL,last_name
+RIVERA,last_name
+CAMPBELL,last_name
+MITCHELL,last_name
+CARTER,last_name
+ROBERTS,last_name
+GOMEZ,last_name
+PHILLIPS,last_name
+EVANS,last_name
+TURNER,last_name
+DIAZ,last_name
+PARKER,last_name
+CRUZ,last_name
+EDWARDS,last_name
+COLLINS,last_name
+REYES,last_name
+STEWART,last_name
+MORRIS,last_name
+MORALES,last_name
+MURPHY,last_name
+COOK,last_name
+ROGERS,last_name
+GUTIERREZ,last_name
+ORTIZ,last_name
+MORGAN,last_name
+COOPER,last_name
+PETERSON,last_name
+BAILEY,last_name
+REED,last_name
+KELLY,last_name
+HOWARD,last_name
+RAMOS,last_name
+KIM,last_name
+COX,last_name
+WARD,last_name
+RICHARDSON,last_name
+WATSON,last_name
+BROOKS,last_name
+CHAVEZ,last_name
+WOOD,last_name
+JAMES,last_name
+BENNETT,last_name
+GRAY,last_name
+MENDOZA,last_name
+RUIZ,last_name
+HUGHES,last_name
+PRICE,last_name
+ALVAREZ,last_name
+CASTILLO,last_name
+SANDERS,last_name
+PATEL,last_name
+MYERS,last_name
+LONG,last_name
+ROSS,last_name
+FOSTER,last_name
+JIMENEZ,last_name
+POWELL,last_name
+JENKINS,last_name
+PERRY,last_name
+RUSSELL,last_name
+SULLIVAN,last_name
+BELL,last_name
+COLEMAN,last_name
+BUTLER,last_name
+HENDERSON,last_name
+BARNES,last_name
+GONZALES,last_name
+FISHER,last_name
+VASQUEZ,last_name
+SIMMONS,last_name
+ROMERO,last_name
+JORDAN,last_name
+PATTERSON,last_name
+ALEXANDER,last_name
+HAMILTON,last_name
+GRAHAM,last_name
+REYNOLDS,last_name
+GRIFFIN,last_name
+WALLACE,last_name
+MORENO,last_name
+WEST,last_name
+COLE,last_name
+HAYES,last_name
+BRYANT,last_name
+HERRERA,last_name
+GIBSON,last_name
+ELLIS,last_name
+TRAN,last_name
+MEDINA,last_name
+AGUILAR,last_name
+STEVENS,last_name
+MURRAY,last_name
+FORD,last_name
+CASTRO,last_name
+MARSHALL,last_name
+OWENS,last_name
+HARRISON,last_name
+FERNANDEZ,last_name
+MCDONALD,last_name
+WOODS,last_name
+WASHINGTON,last_name
+KENNEDY,last_name
+WELLS,last_name
+VARGAS,last_name
+HENRY,last_name
+CHEN,last_name
+FREEMAN,last_name
+WEBB,last_name
+TUCKER,last_name
+GUZMAN,last_name
+BURNS,last_name
+CRAWFORD,last_name
+OLSON,last_name
+SIMPSON,last_name
+PORTER,last_name
+HUNTER,last_name
+GORDON,last_name
+MENDEZ,last_name
+SILVA,last_name
+SHAW,last_name
+SNYDER,last_name
+MASON,last_name
+DIXON,last_name
+MUNOZ,last_name
+HUNT,last_name
+HICKS,last_name
+HOLMES,last_name
+PALMER,last_name
+WAGNER,last_name
+BLACK,last_name
+ROBERTSON,last_name
+BOYD,last_name
+ROSE,last_name
+STONE,last_name
+SALAZAR,last_name
+FOX,last_name
+WARREN,last_name
+MILLS,last_name
+MEYER,last_name
+RICE,last_name
+SCHMIDT,last_name
+GARZA,last_name
+DANIELS,last_name
+FERGUSON,last_name
+NICHOLS,last_name
+STEPHENS,last_name
+SOTO,last_name
+WEAVER,last_name
+RYAN,last_name
+GARDNER,last_name
+PAYNE,last_name
+GRANT,last_name
+DUNN,last_name
+KELLEY,last_name
+SPENCER,last_name
+HAWKINS,last_name
+John,first_name
+William,first_name
+James,first_name
+Charles,first_name
+George,first_name
+Frank,first_name
+Joseph,first_name
+Thomas,first_name
+Henry,first_name
+Robert,first_name
+Edward,first_name
+Harry,first_name
+Walter,first_name
+Arthur,first_name
+Fred,first_name
+Albert,first_name
+Samuel,first_name
+David,first_name
+Louis,first_name
+Joe,first_name
+Charlie,first_name
+Clarence,first_name
+Richard,first_name
+Andrew,first_name
+Daniel,first_name
+Ernest,first_name
+Will,first_name
+Jesse,first_name
+Oscar,first_name
+Lewis,first_name
+Peter,first_name
+Benjamin,first_name
+Frederick,first_name
+Willie,first_name
+Alfred,first_name
+Sam,first_name
+Roy,first_name
+Herbert,first_name
+Jacob,first_name
+Tom,first_name
+Elmer,first_name
+Carl,first_name
+Lee,first_name
+Howard,first_name
+Martin,first_name
+Michael,first_name
+Bert,first_name
+Herman,first_name
+Jim,first_name
+Francis,first_name
+Harvey,first_name
+Earl,first_name
+Eugene,first_name
+Ralph,first_name
+Ed,first_name
+Claude,first_name
+Edwin,first_name
+Ben,first_name
+Charley,first_name
+Paul,first_name
+Edgar,first_name
+Isaac,first_name
+Otto,first_name
+Luther,first_name
+Lawrence,first_name
+Ira,first_name
+Patrick,first_name
+Guy,first_name
+Oliver,first_name
+Theodore,first_name
+Hugh,first_name
+Clyde,first_name
+Alexander,first_name
+August,first_name
+Floyd,first_name
+Homer,first_name
+Jack,first_name
+Leonard,first_name
+Horace,first_name
+Marion,first_name
+Philip,first_name
+Allen,first_name
+Archie,first_name
+Stephen,first_name
+Chester,first_name
+Willis,first_name
+Raymond,first_name
+Rufus,first_name
+Warren,first_name
+Jessie,first_name
+Milton,first_name
+Alex,first_name
+Leo,first_name
+Julius,first_name
+Ray,first_name
+Sidney,first_name
+Bernard,first_name
+Dan,first_name
+Jerry,first_name
+Calvin,first_name
+Mary,first_name
+Anna,first_name
+Emma,first_name
+Elizabeth,first_name
+Minnie,first_name
+Margaret,first_name
+Ida,first_name
+Alice,first_name
+Bertha,first_name
+Sarah,first_name
+Annie,first_name
+Clara,first_name
+Ella,first_name
+Florence,first_name
+Cora,first_name
+Martha,first_name
+Laura,first_name
+Nellie,first_name
+Grace,first_name
+Carrie,first_name
+Maude,first_name
+Mabel,first_name
+Bessie,first_name
+Jennie,first_name
+Gertrude,first_name
+Julia,first_name
+Hattie,first_name
+Edith,first_name
+Mattie,first_name
+Rose,first_name
+Catherine,first_name
+Lillian,first_name
+Ada,first_name
+Lillie,first_name
+Helen,first_name
+Jessie,first_name
+Louise,first_name
+Ethel,first_name
+Lula,first_name
+Myrtle,first_name
+Eva,first_name
+Frances,first_name
+Lena,first_name
+Lucy,first_name
+Edna,first_name
+Maggie,first_name
+Pearl,first_name
+Daisy,first_name
+Fannie,first_name
+Josephine,first_name
+Dora,first_name
+Rosa,first_name
+Katherine,first_name
+Agnes,first_name
+Marie,first_name
+Nora,first_name
+May,first_name
+Mamie,first_name
+Blanche,first_name
+Stella,first_name
+Ellen,first_name
+Nancy,first_name
+Effie,first_name
+Sallie,first_name
+Nettie,first_name
+Della,first_name
+Lizzie,first_name
+Flora,first_name
+Susie,first_name
+Maud,first_name
+Mae,first_name
+Etta,first_name
+Harriet,first_name
+Sadie,first_name
+Caroline,first_name
+Katie,first_name
+Lydia,first_name
+Elsie,first_name
+Kate,first_name
+Susan,first_name
+Mollie,first_name
+Alma,first_name
+Addie,first_name
+Georgia,first_name
+Eliza,first_name
+Lulu,first_name
+Nannie,first_name
+Lottie,first_name
+Amanda,first_name
+Belle,first_name
+Charlotte,first_name
+Rebecca,first_name
+Ruth,first_name
+Viola,first_name
+Olive,first_name
+Amelia,first_name
+Hannah,first_name
+Jane,first_name
+Virginia,first_name
+Emily,first_name
+1355 CONGRESS ST,address
+202 HARLOW ST,address
+330 CIVIC CENTER DR,address
+600 TURNER STREET,address
+365 MAIN ST,address
+169 CAMDEN ST,address
+19063 PARK AVE PLAZA,address
+3336 S BROAD STREET,address
+70 COMMERCIAL ST,address
+80 DANIEL ST,address
+1100 ELM ST,address
+177 MAIN ST,address
+175 AMHERST ST,address
+9 ELM STREET,address
+2401 BELAIR RD,address
+1531 S EDGEWOOD STREET,address
+128 LAKESIDE AVE,address
+246 WEST ST,address
+33 SCHOOL ST,address
+3RD FLR SUITE 302,address
+3840 CRENSHAW BLVD,address
+456 S F MISSION BLVD,address
+7200 BANCROFT AVENUE,address
+10 CAUSEWAY STREET,address
+70 BOND STREET,address
+10 FAWCETT ST,address
+10 MALCOLM X BLVD,address
+140 UNION STREET,address
+151 WARREN ST,address
+51 MYRTLE ST,address
+78 CENTER ST,address
+53 NORTH 6TH STREET,address
+30 CHRISTY DR,address
+881 MAIN ST 1ST FLOOR,address
+439 S UNION ST,address
+400 NORTH MAIN STREET,address
+200 HIGH STREET,address
+192 COMMERCIAL ST,address
+35 CONGRESS ST,address
+1515 HANCOCK ST,address
+115 FREEPORT ST,address
+106 PLEASANT ST,address
+367 MAIN ST,address
+135 BEAVER STREET,address
+ONE EDGEWATER DRIVE,address
+ONE CLARKS HILL,address
+SUITE 4,address
+4238 WASHINGTON ST,address
+104 DEAN ST,address
+STE A,address
+600 WEST OLIVE AVE,address
+169 WALNUT AVENUE,address
+20439 NORDHOFF ST,address
+2216 W BEVERLY BLVD,address
+12429 AVALON BLVD,address
+24301 SOUTHLAND DR,address
+2436 PROFESSIONAL PARKWAY,address
+4201 E RAMON RD,address
+ONE EMPIRE PLAZA,address
+2168 DIAMOND HILL ROAD,address
+4 PLEASANT ST,address
+30 QUAKER LANE,address
+960 MAIN ST,address
+2ND FLOOR,address
+51 NORTH ELM ST,address
+1320 MAIN ST,address
+2 SHAWS COVE,address
+150 COURT ST,address
+233 MAIN STREET,address
+2 LANDMARK SQUARE,address
+SUITE 212,address
+147 LITCHFIELD STREET,address
+131 WEST ST,address
+8000 SOUTHPARK LN,address
+13151 W ALAMEDA PKWY,address
+CORPORATE CENTER DR,address
+828 AIRPAX ROAD,address
+300 BIG ELK MALL,address
+1105 S MITCHELL AVE,address
+2021 INDEPENDENCE AVE,address
+5669 DELMAR BLVD,address
+237 W 48TH STREET,address
+100 S CLINTON ST,address
+11 A CLINTON AVE,address
+186 EXCHANGE STREET,address
+2 COURT STREET,address
+ONE BROADWAY CENTER,address
+195 MONTAGUE ST,address
+2ND FLOOR,address
+123 WILLIAM ST,address
+4210,zipcode
+4769,zipcode
+4841,zipcode
+16335,zipcode
+19145,zipcode
+3301,zipcode
+3801,zipcode
+3101,zipcode
+3561,zipcode
+3064,zipcode
+3431,zipcode
+21213,zipcode
+21227,zipcode
+5401,zipcode
+5701,zipcode
+5602,zipcode
+96799,zipcode
+90008,zipcode
+91340,zipcode
+94605,zipcode
+2222,zipcode
+1104,zipcode
+2138,zipcode
+2119,zipcode
+1901,zipcode
+1852,zipcode
+1608,zipcode
+1201,zipcode
+2740,zipcode
+2301,zipcode
+1420,zipcode
+1843,zipcode
+2720,zipcode
+1040,zipcode
+2148,zipcode
+1970,zipcode
+2169,zipcode
+2122,zipcode
+2703,zipcode
+1830,zipcode
+2452,zipcode
+2062,zipcode
+1702,zipcode
+2601,zipcode
+2131,zipcode
+2780,zipcode
+51401,zipcode
+60623,zipcode
+72301,zipcode
+58102,zipcode
+58701,zipcode
+58201,zipcode
+58503,zipcode
+40831,zipcode
+33135,zipcode
+30680,zipcode
+35010,zipcode
+37115,zipcode
+55429,zipcode
+55438,zipcode
+46216,zipcode
+48334,zipcode
+48141,zipcode
+27910,zipcode
+48051,zipcode
+48210,zipcode
+43725,zipcode
+51501,zipcode
+63026,zipcode
+65536,zipcode
+64468,zipcode
+49307,zipcode
+57201,zipcode
+98133,zipcode
+98166,zipcode
+6457,zipcode
+4901,zipcode
+1247,zipcode
+6360,zipcode
+1440,zipcode
+738,zipcode
+14048,zipcode
+8054,zipcode
+10460,zipcode
+7860,zipcode
+19958,zipcode
+23666,zipcode
+22802,zipcode
+18848,zipcode
+16201,zipcode
+26847,zipcode
+38128,zipcode
+31015,zipcode
+31088,zipcode
+29488,zipcode
+37303,zipcode
+31794,zipcode
+30014,zipcode
+39074,zipcode
+38375,zipcode
+27203,zipcode
+39759,zipcode
+62896,zipcode
+46706,zipcode
+56308,zipcode
+53208,zipcode
+48150,zipcode
+45631,zipcode
+43420,zipcode
+48314,zipcode
+BRN,color
+B,color
+DARK,color
+BROWN,color
+BLACK,color
+HISPANIC,color
+NON HISPANIC,color
+W,color
+WHITE,color
+HAZEL,color
+ASIAN,color
+A,color
+HISP ,color
+Bro,color
+police,negative
+report,negative
+hair,negative
+name,negative
+subject,negative
+email,negative
+employer,negative
+age,negative
+sex,negative
+race,negative
+address,negative
+city,negative
+state,negative
+zip,negative
+home phone,negative
+student,negative
+CA,negative
+GA,negative
+M,negative
+F,negative
+male,negative
+female,negative
+Athens,negative
+San Jose,negative
+height,negative
+eye color,negative
+hair color,negative
+phone,negative
+information,negative
+type,negative
+street address,negative
+dob,negative
+complexion,negative
+weight,negative
+build,negative
+suspect,negative
+beard,negative
+mustache,negative
+eyes,negative
+hair length,negative
+expires,negative
+country,negative
+officer,negative
+info,negative
+city of residence,negative
+occupation,negative
+unemployed,negative
+date of birth,negative
+ht,negative
+wt,negative
+booking status,negative
+bailed,negative
+arrest,negative
+teeth,negative
+deformities,negative
+offense,negative
+ethnicity,negative
+cell phone,negative
+residence,negative
+ssn,negative
+drivers license,negative
+first name,negative
+last name,negative
+middle,negative
+mobile,negative

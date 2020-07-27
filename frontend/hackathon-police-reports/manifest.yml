@@ -1,0 +1,8 @@
+---
+applications:
+- name: hackathon-police-reports
+  command: npm start
+  env:
+    CF_STAGING_TIMEOUT: 35
+    CF_STARTUP_TIMEOUT: 35
+    TIMEOUT: 600
